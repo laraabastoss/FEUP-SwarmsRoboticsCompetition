@@ -11,6 +11,7 @@
 #### Developed by
     Lara Santos Bastos            up202108740
     Lia Sobral                    up202108741
+    Miguel Barros                 up202108678
     Rita Gonçalves Pereira        up202108746
 
 
